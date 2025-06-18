@@ -3,7 +3,7 @@
 This is a portfolio of data analytics projects built with HTML and CSS.  
 It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
-🔗 **Live Portfolio**: [View Website](https://yourusername.github.io/My_Analytics_Projects/)
+🔗 **Live Portfolio**: [View Website](https://yourusername.github.io/My_Analytics_Projects/)(file:///D:/Google%20Capstone/index.html)
 
 ---
 
