@@ -9,6 +9,10 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
 ## 📊 Projects Included
 
+### 1. Airbnb Price Optimization and Revenue Insights
+- Tools : Python, Pandas, Numpy, Statsmodel,
+-  [View Website](https://github.com/Dataprofessional2/Adv_Project)
+  
 ### 1. COVID-19 Country Analysis
 - **Tools**: Excel, SQL, Tableau and Excel Charts, Python
 - **Summary**: Analyzed global COVID-19 metrics across WHO regions to evaluate pandemic control trends.
