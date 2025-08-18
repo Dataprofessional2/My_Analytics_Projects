@@ -9,7 +9,7 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
 ## 📊 Projects Included
 
-### 1. Airbnb Price Optimization and Revenue Insights
+### 1. Airbnb Price Optimization and Revenue Insights (In Progress)
 - Tools : Python, Pandas, Numpy, Statsmodel
 - **Summary**: Analyze Airbnb listings to uncover key factors affecting rental prices and build machine learning models for price prediction.
 -  [View Website](https://github.com/Dataprofessional2/Adv_Project)
