@@ -1,4 +1,4 @@
-# My Data Analytics Projects
+# My Data Analytics Projects ( Used by Akshay Chauhan)
 
 This is a portfolio of data analytics projects built with HTML and CSS.  
 It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
