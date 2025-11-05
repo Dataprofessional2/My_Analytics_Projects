@@ -1,4 +1,4 @@
-# My Data Analytics Projects ( Used by Akshay Chauhan)
+# My Data Analytics Projects ( Used & Managed by Akshay Chauhan)
 
 This is a portfolio of data analytics projects built with HTML and CSS.  
 It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
@@ -9,8 +9,8 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
 ## 📊 Projects Included
 
-### 1. Airbnb Price Optimization and Revenue Insights (In Progress)
-- Tools : Python, Pandas, Numpy, Statsmodel
+### 1. Airbnb Price Optimization and Revenue Insights
+- Tools : Python, Pandas, Numpy, Statsmodel, Scikit Learn, Seaborn, Matplotlib
 - **Summary**: Analyze Airbnb listings to uncover key factors affecting rental prices and build machine learning models for price prediction.
 -  [View Website](https://github.com/Dataprofessional2/Adv_Project)
   
