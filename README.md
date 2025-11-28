@@ -24,13 +24,6 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 - **Summary**: Explored ride patterns and user behavior to support marketing decisions.
 -  [View Website](https://github.com/Dataprofessional2/GOOGLE-DATA-ANALYTICS)
   
-### 4. Bellabeat Health Insights (Code - Only)
-- **Tools**: Excel, SQL, Tableau, R
-- **Summary**: Analyzed smart device usage to support wellness recommendations.
--  [View Website](https://github.com/Dataprofessional2/Bellabeat_Analysis)
-
----
-
 ## 💻 Built With
 - HTML
 - CSS
