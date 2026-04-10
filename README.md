@@ -9,17 +9,22 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
 ## 📊 Projects Included
 
-### 1. Airbnb Price Optimization and Revenue Insights
+### 1. Customer Churn Prediction and Analysis
+- Tools : Python, Pandas, Numpy, Statsmodel, Scikit Learn, Matplotlib
+- **Summary**: This project analyzes customer data to understand and predict customer churn using Python. The results are visualized using Tableau to provide insights into customer behavior and retention.
+-  [View Website](https://github.com/Dataprofessional2/Adv_Project)
+  
+  ### 2. Airbnb Price Optimization and Revenue Insights
 - Tools : Python, Pandas, Numpy, Statsmodel, Scikit Learn, Seaborn, Matplotlib
 - **Summary**: Analyze Airbnb listings to uncover key factors affecting rental prices and build machine learning models for price prediction.
 -  [View Website](https://github.com/Dataprofessional2/Adv_Project)
   
-### 2. COVID-19 Country Analysis (Coding,Dashboard, Insights)
+### 3. COVID-19 Country Analysis (Coding,Dashboard, Insights)
 - **Tools**: Excel, SQL, Tableau and Excel Charts, Python
 - **Summary**: Analyzed global COVID-19 metrics across WHO regions to evaluate pandemic control trends.
 -  [View Website](https://github.com/Dataprofessional2/Covid_19_Analysis)
 
-### 3. Bike-Share Case Study (Code,Basic Dashboard, Insights)
+### 4. Bike-Share Case Study (Code,Basic Dashboard, Insights)
 - **Tools**: SQL, Excel, R, Tableau
 - **Summary**: Explored ride patterns and user behavior to support marketing decisions.
 -  [View Website](https://github.com/Dataprofessional2/GOOGLE-DATA-ANALYTICS)
