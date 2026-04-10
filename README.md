@@ -12,7 +12,7 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 ### 1. Customer Churn Prediction and Analysis
 - Tools : Python, Pandas, Numpy, Statsmodel, Scikit Learn, Matplotlib
 - **Summary**: This project analyzes customer data to understand and predict customer churn using Python. The results are visualized using Tableau to provide insights into customer behavior and retention.
--  [View Website](https://github.com/Dataprofessional2/Adv_Project)
+-  [View Website](https://github.com/Dataprofessional2/Customer_Churn_Project_DA)
   
   ### 2. Airbnb Price Optimization and Revenue Insights
 - Tools : Python, Pandas, Numpy, Statsmodel, Scikit Learn, Seaborn, Matplotlib
