@@ -1,6 +1,6 @@
 # My Data Analytics Projects ( Used & Managed by Akshay Chauhan)
 
-This is a portfolio of data analytics projects built with HTML and CSS.  
+This is a portfolio of data analytics projects.  
 It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
 🔗 **Live Portfolio**: [View Website](https://dataprofessional2.github.io/My_Analytics_Projects/)
@@ -9,7 +9,7 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 
 ## 📊 Projects Included
 
-### 1. Customer Churn Prediction and Analysis (Started 11 Apr 2026)
+### 1. Customer Churn Prediction and Analysis 
 - Tools : Python, Pandas, Numpy, Statsmodel, Scikit Learn, Matplotlib
 - **Summary**: This project analyzes customer data to understand and predict customer churn using Python. The results are visualized using Tableau to provide insights into customer behavior and retention.
 -  [View Website](https://github.com/Dataprofessional2/Customer_Churn_Project_DA)
@@ -28,8 +28,6 @@ It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
 - **Tools**: SQL, Excel, R, Tableau
 - **Summary**: Explored ride patterns and user behavior to support marketing decisions.
 -  [View Website](https://github.com/Dataprofessional2/GOOGLE-DATA-ANALYTICS)
-  
-## 💻 Built With
-- HTML
-- CSS
-- GitHub Pages
+
+
+  # Thanks for Visiting
