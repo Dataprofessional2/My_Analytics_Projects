@@ -1,7 +1,7 @@
 # My Data Analytics Projects ( Used & Managed by Akshay Chauhan)
 
 This is a portfolio of data analytics projects.  
-It showcases my work in Excel, SQL, Python, Tableau, and Data Visualization.
+It showcases my work in Excel, SQL, Python, Tableau.
 
 🔗 **Live Portfolio**: [View Website](https://dataprofessional2.github.io/My_Analytics_Projects/)
 
